@@ -143,7 +143,7 @@ logo=(f"""
 \033[1;33m    │ [✓] DEVELAPER   :  FREEDOM FIGHTER          │
 \033[1;33m    │ [✓] GROUP    :FIGHTER                 │
 \033[1;31m    │ [✓] WHATSAPP :          │
-\033[1;31m    │ [✓] VERSION  : 1.0                   │
+\033[1;31m    │ [✓] VERSION  : 1.1.3                 │
  \x1b[1;97m   │ [✓] TOOLS    : \033[1;32m GAME ID CLONER  \033[1;37m│
  \x1b[1;97m   └───────────────────────────────────────┘""")
 def cek_apk(session,coki):
@@ -232,7 +232,7 @@ def virus():
 		print(' [🔥]  Total ids:\033[1;92m '+tl)
 		print(f' [🔥]  Usaragents : '+str(len(ugen)))
 		print(f' [🔥]\033[1;97m  target sim code :\033[1;92m {code} ')
-		print(f"\033[1;97m [🔥]  version:\033[1;92m : 1.0.2")
+		print(f"\033[1;97m [🔥]  version:\033[1;92m : 1.0.3")
 		print(' \033[1;97m[🔥]  terget first number:',code+coda+nmp)
 		print(' [🔥]  use airplane mode if ok ids not come ')
 		print(50*'_')
